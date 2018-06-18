@@ -1,8 +1,8 @@
-guest_name= "Mr. Elon Musk" 
-party_name= "Best Political Party Ever"
-date= "November 9th"
-time= "3 am"
-host_name= "Harry Potter"
+# guest_name= "Mr. Elon Musk" 
+# party_name= "Best Political Party Ever"
+# date= "November 9th"
+# time= "3 am"
+# host_name= "Harry Potter"
 
 puts "Dear #{guest_name},
 
