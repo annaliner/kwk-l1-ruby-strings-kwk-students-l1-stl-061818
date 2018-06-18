@@ -1,7 +1,7 @@
-guest_name= "Hermione" 
-party_name= "Best Halloween Party Ever"
-date= "October 31st"
-time= "6 pm"
+guest_name= "Mr. Elon Musk" 
+party_name= "Best Political Party Ever"
+date= "November 9th"
+time= "3 am"
 host_name= "Harry Potter"
 
 puts "Dear #{guest_name},
